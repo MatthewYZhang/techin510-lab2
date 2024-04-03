@@ -11,6 +11,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Deployment Page
+
+https://techin510-lab2-evw3vcakj8uzdohlvaljcw.streamlit.app/
+
 ## What I learned
 
 - Use yfinance package to read real-time stock data
